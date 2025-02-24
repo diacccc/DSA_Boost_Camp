@@ -1,3 +1,8 @@
+/**
+ \brief Luogu P2580
+ A Trie template. 
+ \author Diac
+ */
 #include <iostream>
 #include <vector>
 #include <cstring>
